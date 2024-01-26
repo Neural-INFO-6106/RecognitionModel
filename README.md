@@ -39,7 +39,6 @@ The significant difference in data size between the two datasets posed challenge
 This approach seeks to combine the strength of emotion recognition while mitigating biases, ultimately contributing to the development of a more accurate and robust unified model.
 
 # Code Dependencies
-```python
 ![OS](https://img.shields.io/badge/OS-Any-brightgreen)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=keras&logoColor=white)
