@@ -12,7 +12,7 @@ Approximately 600 images with labels denoting happiness (1) or sadness (0).
 Over 58,000 images categorized into training and validation folders.
 Labels: "0" for female, "1" for male.
 
-#Challenges Encountered:
+# Challenges Encountered:
 
 The significant difference in data size between the two datasets posed challenges in our initial approaches:
 
