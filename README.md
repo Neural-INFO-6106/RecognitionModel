@@ -7,7 +7,8 @@ Our task involves creating a unified model capable of classifying images into fo
 
 1. Happy-sad Dataset:
 - Format: h5 file
-- Approximately 600 images with labels denoting happiness (1) or sadness (0).
+- Approximately 600 images with labels denoting happiness (1) or sadness (0)
+- Data Bias : All the images are of male. 
 2. Male-female Dataset:
 - Over 58,000 images categorized into training and validation folders.
 - Labels: "0" for female, "1" for male.
